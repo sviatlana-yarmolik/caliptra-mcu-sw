@@ -200,3 +200,5 @@ When implementing a new emulator peripheral and firmware driver, the workflow wi
 ## FPGA
 
 See [specification](https://chipsalliance.github.io/caliptra-mcu-sw/) for FPGA instructions.
+
+<!-- Test change by sviatlana-yarmolik - verifying fork setup -->
